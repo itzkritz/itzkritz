@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="star.jpg" alt="Star Banner" width="100%" height="180" />
+</p>
 <h1 align="center">⭐ Hi, I'm Kritika Mishra</h1>
 <p align="center">
   <b>Just building stuff and exploring data science</b><br />
