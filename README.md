@@ -10,6 +10,12 @@
 
 -  Fun fact **i am also an artist**
 
+
+## Currently Working On:
+
+### ** Langchain Project**
+-  **[Finai](https://github.com/itzkritz/Finai)** - a wealth management agentic ai webapp
+
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,tailwind,html,css" />
