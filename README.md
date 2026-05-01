@@ -14,7 +14,7 @@
 ## Currently Working On:
 
 ### ** Langchain Project**
--  **[Finai](https://github.com/itzkritz/Finai)** - a wealth management agentic ai webapp
+-  **[Finai](https://github.com/itzkritz/Finai)** - a wealth management agentic ai dashboard
 
 ## Tech Stack
 <p align="center">
